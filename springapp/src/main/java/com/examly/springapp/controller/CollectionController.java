@@ -21,7 +21,7 @@ public class CollectionController {
         this.collectionService = collectionService;
     }
 
-    @GetMapping("/process")
+    @GetMapping("/processs")
     public ResponseEntity<List<Item>> processCollection() {
         List<Item> processedItems = collectionService.processCollection();
         return ResponseEntity.ok(processedItems);

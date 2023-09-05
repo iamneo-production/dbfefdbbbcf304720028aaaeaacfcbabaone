@@ -7,8 +7,7 @@
     <groupId>com.example</groupId>
     <artifactId>spring-boot-collection-processor</artifactId>
     <version>1.0.0</version>
-	RunWith cannot be resolved to a typeJava
-
+	
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
